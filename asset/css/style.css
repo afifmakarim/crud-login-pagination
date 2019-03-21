@@ -1,0 +1,7 @@
+body{
+    background: url(https://2.bp.blogspot.com/-eOJginwsoSA/V904dY755mI/AAAAAAAAB5I/7pXc9fQxXH4I0hj1PJoAVLCJHRbApdfSQCLcB/s1600/kanan.jpg), url(https://3.bp.blogspot.com/-IZKzFuVdTx8/V9FX3qA90mI/AAAAAAAABvc/_2M4PEYKjTwRCcrWYlDye_27gFFbtxHIgCLcB/s1600/handa.jpg) #ffffff;
+    background-repeat: no-repeat;
+    background-size: 350px, 270px;
+    background-position: bottom left, bottom right;
+    background-attachment: fixed;
+}
