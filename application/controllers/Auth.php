@@ -60,5 +60,8 @@ Class Auth extends CI_Controller{
         }
       }
     }
-  
+      
+    public function testing(){
+        return null;
+    }
 }
